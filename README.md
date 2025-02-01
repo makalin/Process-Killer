@@ -20,8 +20,8 @@ A command-line tool to search and kill processes by partial name match. This Pyt
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/process-killer.git
-cd process-killer
+git clone https://github.com/makalin/Process-Killer.git
+cd Process-Killer
 ```
 
 2. Install the required dependency:
